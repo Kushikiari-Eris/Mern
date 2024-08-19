@@ -84,7 +84,7 @@ function Home() {
               </div>
             </div>
             
-        <h1> BOBO KA</h1>
+
         </section>
       </div>
   )
